@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --tripBrandingBlue: #3264ff;
+  --tripBrandingBlue-8: #d6e0ff;
+  --tripBlack: #111418;
+  --tripSecondaryBlack: #2d3643;
+  --tripTertiaryThirdBlack: #5a6674;
+  --tripText: #111418;
+  --tripTextSecondary: #5a6674;
+}
